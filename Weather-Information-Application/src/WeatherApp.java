@@ -6,7 +6,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class WeatherApp extends Application {
+public class WeatherApp {
     @Override
     public void start(Stage primaryStage) {
         primaryStage.setTitle("Weather Information App");
